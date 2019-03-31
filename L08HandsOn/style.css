@@ -1,0 +1,22 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+}
+
+header {
+    background-color: #788599;
+    padding: 5px;
+    text-align: center;
+    font-size: 40px;
+}
+
+body {
+    background-color: #40649e;
+}
+
+p {
+    font-size: 25px;
+}
+
+.input{
+    color: yellow;
+}
